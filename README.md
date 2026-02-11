@@ -69,7 +69,6 @@ Performed:
 
 ## Author
 **Teja Kesarapu**  
-Aspiring Data Analyst  
 
 ---
 
