@@ -44,17 +44,6 @@ Performed:
 - Data type conversion
 - Removing duplicates
 
-
----
-
-### 2. Data Cleaning
-Performed:
-- Handling missing values
-- Formatting price columns
-- Data type conversion
-- Removing duplicates
-
-
 ---
 
 ## Key Insights
