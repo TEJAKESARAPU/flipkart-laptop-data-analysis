@@ -1,4 +1,4 @@
-# Flipkart Laptop Data Analysis
+# Flipkart Laptop Data Scraper and Analysis
 
 ## Project Overview
 This project demonstrates an **end-to-end data analysis workflow**:
